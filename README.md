@@ -6,3 +6,5 @@ I'm here to learn about GitHub. I hope to do this later as a career in the futur
 I'll be using this for robotics, and maybe personal projects.
 
 there's a reason for everything
+
+alrighty then
